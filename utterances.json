@@ -1,3 +1,6 @@
 {
-  "origins": ["https://programming-oddments.tistory.com"]
+  "origins": [
+    "http://programming-oddments.tistory.com",
+    "https://programming-oddments.tistory.com"
+  ]
 }
